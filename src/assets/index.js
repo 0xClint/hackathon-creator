@@ -1,0 +1,16 @@
+export { ReactComponent as Dphi } from "./icons/Dphi.svg";
+export { ReactComponent as Robot } from "./icons/Robot.svg";
+export { ReactComponent as AI } from "./icons/AI.svg";
+export { ReactComponent as Scientist } from "./icons/scientist.svg";
+export { ReactComponent as AIChallengeHost } from "./icons/AIchallengeHost.svg";
+export { ReactComponent as Community } from "./icons/community.svg";
+export { ReactComponent as Identify } from "./icons/IdentificationCard.svg";
+export { ReactComponent as Notebook } from "./icons/notebook.svg";
+export { ReactComponent as Rocket } from "./icons/Rocket.svg";
+export { ReactComponent as Upload } from "./icons/upload.svg";
+export { ReactComponent as Downarrow } from "./icons/downarrow.svg";
+export { ReactComponent as Clock } from "./icons/clock.svg";
+export { ReactComponent as Level } from "./icons/level.svg";
+export { ReactComponent as Search } from "./icons/search.svg";
+export { ReactComponent as TickMark } from "./icons/tickmark.svg";
+export { ReactComponent as Uparrow } from "./icons/uparrow.svg";
